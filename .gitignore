@@ -7,8 +7,16 @@
 /*/[Oo]bj/
 /*/[Bb]uild/
 /*/[Bb]uilds/
+/*/WebGL Builds/
 /*/[Ll]ogs/
 /*/[Mm]emoryCaptures/
+
+# Ignore Assets from Asset Store, download them from the Official Asset Store
+# Asset Store Terms of Service and EULA: https://unity.com/legal/as-terms
+# Asset Store Terms of Service and EULA FAQ: https://assetstore.unity.com/browse/eula-faq
+# https://github.com/dec0de284/unity-project-samples/tree/main/pachinko/Assets/Resources/Asset%20Store/Licenses/README.md
+/*/[Aa]ssets/Resources/Asset Store/Assets
+/*/Assets/TextMesh Pro
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/*/[Aa]ssets/**/*.meta

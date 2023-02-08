@@ -1,0 +1,628 @@
+fileFormatVersion: 2
+guid: 1913dee6a7d87d443b603d95a4c31742
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 55, z: 447, w: 50}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 0.18
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Finger Cursor - Black
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 58
+        width: 190
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 95, y: -65}
+        - {x: 95, y: -45}
+        - {x: 90, y: -39}
+        - {x: 86, y: -34}
+        - {x: 87, y: -5}
+        - {x: 85, y: 8}
+        - {x: 79, y: 30}
+        - {x: 73, y: 43}
+        - {x: 59, y: 59}
+        - {x: 50, y: 65}
+        - {x: 23, y: 63}
+        - {x: 23, y: 65}
+        - {x: 10, y: 68}
+        - {x: -12, y: 69}
+        - {x: -18, y: 69}
+        - {x: -37, y: 90}
+        - {x: -55, y: 102}
+        - {x: -87, y: 102}
+        - {x: -95, y: 94}
+        - {x: -95, y: 68}
+        - {x: -94, y: 64}
+        - {x: -69, y: 39}
+        - {x: -54, y: 17}
+        - {x: -53, y: 7}
+        - {x: -62, y: 10}
+        - {x: -76, y: 8}
+        - {x: -93, y: -5}
+        - {x: -95, y: -18}
+        - {x: -95, y: -20}
+        - {x: -93, y: -26}
+        - {x: -80, y: -40}
+        - {x: -69, y: -49}
+        - {x: -56, y: -57}
+        - {x: -39, y: -64}
+        - {x: -7, y: -75}
+        - {x: 1, y: -77}
+        - {x: 1, y: -93}
+        - {x: 8, y: -101}
+        - {x: 8, y: -102}
+        - {x: 49, y: -102}
+        - {x: 72, y: -87}
+        - {x: 82, y: -78}
+        - {x: 94, y: -67}
+      physicsShape:
+      - - {x: 94, y: -48}
+        - {x: 93, y: -43}
+        - {x: 78, y: 27}
+        - {x: 62, y: 55}
+        - {x: 44, y: 64}
+        - {x: 3, y: 69}
+        - {x: -18, y: 66}
+        - {x: -43, y: 93}
+        - {x: -58, y: 102}
+        - {x: -85, y: 102}
+        - {x: -91, y: 100}
+        - {x: -95, y: 94}
+        - {x: -95, y: 69}
+        - {x: -94, y: 66}
+        - {x: -53, y: 20}
+        - {x: -66, y: 8}
+        - {x: -91, y: -1}
+        - {x: -93, y: -20}
+        - {x: -90, y: -29}
+        - {x: -65, y: -50}
+        - {x: -36, y: -61}
+        - {x: -7, y: -73}
+        - {x: 7, y: -102}
+        - {x: 40, y: -102}
+        - {x: 63, y: -91}
+        - {x: 91, y: -68}
+        - {x: 94, y: -62}
+      tessellationDetail: 0.18
+      bones: []
+      spriteID: b913d4988fe906f4a9fc8a353e187649
+      internalID: 1287828878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Finger Cursor - Blue
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 58
+        width: 191
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 95, y: -65}
+        - {x: 95, y: -45}
+        - {x: 90, y: -39}
+        - {x: 86, y: -34}
+        - {x: 87, y: -5}
+        - {x: 85, y: 8}
+        - {x: 79, y: 30}
+        - {x: 73, y: 43}
+        - {x: 59, y: 59}
+        - {x: 50, y: 65}
+        - {x: 23, y: 63}
+        - {x: 23, y: 65}
+        - {x: 10, y: 68}
+        - {x: -12, y: 69}
+        - {x: -18, y: 69}
+        - {x: -37, y: 90}
+        - {x: -55, y: 102}
+        - {x: -87, y: 102}
+        - {x: -95, y: 94}
+        - {x: -95, y: 68}
+        - {x: -94, y: 64}
+        - {x: -69, y: 39}
+        - {x: -54, y: 17}
+        - {x: -53, y: 7}
+        - {x: -62, y: 10}
+        - {x: -76, y: 8}
+        - {x: -93, y: -5}
+        - {x: -95, y: -18}
+        - {x: -95, y: -20}
+        - {x: -93, y: -26}
+        - {x: -80, y: -40}
+        - {x: -69, y: -49}
+        - {x: -56, y: -57}
+        - {x: -39, y: -64}
+        - {x: -7, y: -75}
+        - {x: 1, y: -77}
+        - {x: 1, y: -93}
+        - {x: 8, y: -101}
+        - {x: 8, y: -102}
+        - {x: 49, y: -102}
+        - {x: 72, y: -87}
+        - {x: 82, y: -78}
+        - {x: 94, y: -67}
+      physicsShape:
+      - - {x: 94, y: -48}
+        - {x: 93, y: -43}
+        - {x: 78, y: 27}
+        - {x: 62, y: 55}
+        - {x: 44, y: 64}
+        - {x: 3, y: 69}
+        - {x: -18, y: 66}
+        - {x: -43, y: 93}
+        - {x: -58, y: 102}
+        - {x: -85, y: 102}
+        - {x: -91, y: 100}
+        - {x: -95, y: 94}
+        - {x: -95, y: 69}
+        - {x: -94, y: 66}
+        - {x: -53, y: 20}
+        - {x: -66, y: 8}
+        - {x: -91, y: -1}
+        - {x: -93, y: -20}
+        - {x: -90, y: -29}
+        - {x: -65, y: -50}
+        - {x: -36, y: -61}
+        - {x: -7, y: -73}
+        - {x: 7, y: -102}
+        - {x: 40, y: -102}
+        - {x: 63, y: -91}
+        - {x: 91, y: -68}
+        - {x: 94, y: -62}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6799876e8a2abef47b18b3fb82be2594
+      internalID: 421761917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Finger Cursor - Red
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 58
+        width: 190
+        height: 205
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 95, y: -65}
+        - {x: 95, y: -45}
+        - {x: 90, y: -39}
+        - {x: 86, y: -34}
+        - {x: 87, y: -5}
+        - {x: 85, y: 8}
+        - {x: 79, y: 30}
+        - {x: 73, y: 43}
+        - {x: 59, y: 59}
+        - {x: 50, y: 65}
+        - {x: 23, y: 63}
+        - {x: 23, y: 65}
+        - {x: 10, y: 68}
+        - {x: -12, y: 69}
+        - {x: -18, y: 69}
+        - {x: -37, y: 90}
+        - {x: -55, y: 102}
+        - {x: -87, y: 102}
+        - {x: -95, y: 94}
+        - {x: -95, y: 68}
+        - {x: -94, y: 64}
+        - {x: -69, y: 39}
+        - {x: -54, y: 17}
+        - {x: -53, y: 7}
+        - {x: -62, y: 10}
+        - {x: -76, y: 8}
+        - {x: -93, y: -5}
+        - {x: -95, y: -18}
+        - {x: -95, y: -20}
+        - {x: -93, y: -26}
+        - {x: -80, y: -40}
+        - {x: -69, y: -49}
+        - {x: -56, y: -57}
+        - {x: -39, y: -64}
+        - {x: -7, y: -75}
+        - {x: 1, y: -77}
+        - {x: 1, y: -93}
+        - {x: 8, y: -101}
+        - {x: 8, y: -102}
+        - {x: 49, y: -102}
+        - {x: 72, y: -87}
+        - {x: 82, y: -78}
+        - {x: 94, y: -67}
+      physicsShape:
+      - - {x: 94, y: -48}
+        - {x: 93, y: -43}
+        - {x: 78, y: 27}
+        - {x: 62, y: 55}
+        - {x: 44, y: 64}
+        - {x: 3, y: 69}
+        - {x: -18, y: 66}
+        - {x: -43, y: 93}
+        - {x: -58, y: 102}
+        - {x: -85, y: 102}
+        - {x: -91, y: 100}
+        - {x: -95, y: 94}
+        - {x: -95, y: 69}
+        - {x: -94, y: 66}
+        - {x: -53, y: 20}
+        - {x: -66, y: 8}
+        - {x: -91, y: -1}
+        - {x: -93, y: -20}
+        - {x: -90, y: -29}
+        - {x: -65, y: -50}
+        - {x: -36, y: -61}
+        - {x: -7, y: -73}
+        - {x: 7, y: -102}
+        - {x: 40, y: -102}
+        - {x: 63, y: -91}
+        - {x: 91, y: -68}
+        - {x: 94, y: -62}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a92c3b00363d3ff43bd039cca310b275
+      internalID: 1394412108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline:
+    - - {x: -131, y: -67}
+      - {x: -128, y: -61}
+      - {x: -128, y: -46}
+      - {x: -139, y: -34}
+      - {x: -138, y: -5}
+      - {x: -140, y: 8}
+      - {x: -146, y: 30}
+      - {x: -152, y: 43}
+      - {x: -166, y: 59}
+      - {x: -175, y: 65}
+      - {x: -202, y: 63}
+      - {x: -202, y: 65}
+      - {x: -215, y: 68}
+      - {x: -237, y: 69}
+      - {x: -243, y: 69}
+      - {x: -262, y: 90}
+      - {x: -282, y: 103}
+      - {x: -285, y: 104}
+      - {x: -312, y: 104}
+      - {x: -320, y: 95}
+      - {x: -320, y: 68}
+      - {x: -319, y: 64}
+      - {x: -294, y: 39}
+      - {x: -279, y: 17}
+      - {x: -278, y: 7}
+      - {x: -288, y: 10}
+      - {x: -301, y: 9}
+      - {x: -317, y: -5}
+      - {x: -320, y: -12}
+      - {x: -318, y: -26}
+      - {x: -310, y: -35}
+      - {x: -305, y: -39}
+      - {x: -294, y: -49}
+      - {x: -289, y: -52}
+      - {x: -273, y: -60}
+      - {x: -264, y: -64}
+      - {x: -225, y: -77}
+      - {x: -225, y: -93}
+      - {x: -218, y: -101}
+      - {x: -210, y: -104}
+      - {x: -186, y: -104}
+      - {x: -177, y: -100}
+      - {x: -153, y: -87}
+      - {x: -143, y: -78}
+    - - {x: 111, y: -61}
+      - {x: 111, y: -47}
+      - {x: 103, y: -35}
+      - {x: 99, y: -36}
+      - {x: 100, y: -9}
+      - {x: 100, y: 4}
+      - {x: 96, y: 21}
+      - {x: 90, y: 39}
+      - {x: 81, y: 51}
+      - {x: 62, y: 66}
+      - {x: 38, y: 65}
+      - {x: 28, y: 65}
+      - {x: 25, y: 69}
+      - {x: -3, y: 69}
+      - {x: -13, y: 80}
+      - {x: -35, y: 100}
+      - {x: -43, y: 104}
+      - {x: -69, y: 104}
+      - {x: -73, y: 101}
+      - {x: -84, y: 92}
+      - {x: -84, y: 72}
+      - {x: -82, y: 67}
+      - {x: -70, y: 56}
+      - {x: -62, y: 46}
+      - {x: -55, y: 42}
+      - {x: -46, y: 27}
+      - {x: -41, y: 17}
+      - {x: -38, y: 7}
+      - {x: -48, y: 10}
+      - {x: -61, y: 8}
+      - {x: -71, y: 3}
+      - {x: -80, y: -9}
+      - {x: -79, y: -22}
+      - {x: -75, y: -32}
+      - {x: -62, y: -44}
+      - {x: -50, y: -52}
+      - {x: -34, y: -60}
+      - {x: -15, y: -68}
+      - {x: 13, y: -76}
+      - {x: 12, y: -88}
+      - {x: 20, y: -104}
+      - {x: 56, y: -104}
+      - {x: 71, y: -94}
+      - {x: 84, y: -90}
+      - {x: 109, y: -66}
+    - - {x: 320, y: -64}
+      - {x: 320, y: -43}
+      - {x: 318, y: -38}
+      - {x: 315, y: -12}
+      - {x: 312, y: 11}
+      - {x: 309, y: 23}
+      - {x: 305, y: 35}
+      - {x: 301, y: 42}
+      - {x: 287, y: 58}
+      - {x: 278, y: 63}
+      - {x: 272, y: 64}
+      - {x: 254, y: 63}
+      - {x: 253, y: 66}
+      - {x: 241, y: 65}
+      - {x: 232, y: 70}
+      - {x: 217, y: 68}
+      - {x: 208, y: 70}
+      - {x: 198, y: 81}
+      - {x: 184, y: 95}
+      - {x: 172, y: 105}
+      - {x: 143, y: 105}
+      - {x: 131, y: 93}
+      - {x: 128, y: 89}
+      - {x: 128, y: 75}
+      - {x: 132, y: 65}
+      - {x: 143, y: 56}
+      - {x: 162, y: 35}
+      - {x: 167, y: 26}
+      - {x: 179, y: 7}
+      - {x: 164, y: 8}
+      - {x: 152, y: 9}
+      - {x: 138, y: -2}
+      - {x: 135, y: -8}
+      - {x: 135, y: -26}
+      - {x: 150, y: -42}
+      - {x: 157, y: -48}
+      - {x: 171, y: -56}
+      - {x: 189, y: -64}
+      - {x: 209, y: -72}
+      - {x: 221, y: -76}
+      - {x: 225, y: -90}
+      - {x: 231, y: -98}
+      - {x: 238, y: -103}
+      - {x: 247, y: -104}
+      - {x: 265, y: -104}
+      - {x: 276, y: -100}
+      - {x: 300, y: -87}
+      - {x: 319, y: -68}
+    physicsShape:
+    - - {x: -141, y: -35}
+      - {x: -141, y: -2}
+      - {x: -147, y: 27}
+      - {x: -163, y: 55}
+      - {x: -181, y: 66}
+      - {x: -238, y: 69}
+      - {x: -276, y: 98}
+      - {x: -285, y: 103}
+      - {x: -306, y: 103}
+      - {x: -316, y: 101}
+      - {x: -320, y: 94}
+      - {x: -320, y: 69}
+      - {x: -319, y: 66}
+      - {x: -278, y: 20}
+      - {x: -315, y: -2}
+      - {x: -318, y: -24}
+      - {x: -311, y: -32}
+      - {x: -294, y: -45}
+      - {x: -252, y: -66}
+      - {x: -224, y: -75}
+      - {x: -223, y: -95}
+      - {x: -212, y: -103}
+      - {x: -192, y: -103}
+      - {x: -157, y: -88}
+      - {x: -131, y: -70}
+      - {x: -131, y: -40}
+    - - {x: 107, y: -44}
+      - {x: 100, y: -20}
+      - {x: 95, y: 21}
+      - {x: 83, y: 52}
+      - {x: 51, y: 68}
+      - {x: 17, y: 69}
+      - {x: -4, y: 67}
+      - {x: -30, y: 95}
+      - {x: -43, y: 103}
+      - {x: -68, y: 103}
+      - {x: -82, y: 98}
+      - {x: -82, y: 75}
+      - {x: -80, y: 65}
+      - {x: -54, y: 42}
+      - {x: -34, y: 6}
+      - {x: -57, y: 10}
+      - {x: -81, y: -8}
+      - {x: -77, y: -26}
+      - {x: -56, y: -47}
+      - {x: -10, y: -67}
+      - {x: 12, y: -90}
+      - {x: 25, y: -103}
+      - {x: 50, y: -103}
+      - {x: 58, y: -100}
+      - {x: 93, y: -79}
+      - {x: 108, y: -62}
+      - {x: 108, y: -48}
+    - - {x: 313, y: -12}
+      - {x: 308, y: 15}
+      - {x: 303, y: 35}
+      - {x: 286, y: 58}
+      - {x: 272, y: 64}
+      - {x: 247, y: 65}
+      - {x: 216, y: 70}
+      - {x: 199, y: 79}
+      - {x: 171, y: 103}
+      - {x: 144, y: 103}
+      - {x: 131, y: 92}
+      - {x: 131, y: 72}
+      - {x: 141, y: 57}
+      - {x: 179, y: 7}
+      - {x: 146, y: 5}
+      - {x: 136, y: -8}
+      - {x: 135, y: -21}
+      - {x: 148, y: -40}
+      - {x: 162, y: -48}
+      - {x: 212, y: -71}
+      - {x: 230, y: -75}
+      - {x: 226, y: -90}
+      - {x: 240, y: -103}
+      - {x: 261, y: -103}
+      - {x: 305, y: -82}
+      - {x: 320, y: -64}
+      - {x: 320, y: -41}
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 1537655665
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Finger Cursor - Black: 1287828878
+      Finger Cursor - Red: 1394412108
+      Finger Cursor - Blue: 421761917
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

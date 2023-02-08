@@ -3,7 +3,13 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Button
+  - Hearts
+  - Gold Coins
+  - Diamonds
+  - None
+  - Music
   layers:
   - Default
   - TransparentFX
@@ -11,7 +17,7 @@ TagManager:
   - 
   - Water
   - UI
-  - 
+  - Game Item
   - 
   - 
   - 
@@ -40,4 +46,19 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Pin
+    uniqueID: 2391677933
+    locked: 0
+  - name: Container
+    uniqueID: 920895357
+    locked: 0
+  - name: Item
+    uniqueID: 3036536179
+    locked: 0
+  - name: Button
+    uniqueID: 4134033059
+    locked: 0
+  - name: Button Text
+    uniqueID: 1606315687
     locked: 0
