@@ -7,4 +7,4 @@
 
 - All of the used assets are under **Unity's Extension Asset License**.
 - Download the used assets manually through **Unity's official Asset Store**.
-- This folder will contain **README files** from the the asset author.
+- This folder will contain **README files** from the asset author.
